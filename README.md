@@ -1,0 +1,3 @@
+# ThanosSTR
+STORE
+GG 
